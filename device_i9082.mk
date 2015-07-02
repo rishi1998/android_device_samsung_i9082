@@ -29,6 +29,9 @@ PRODUCT_COPY_FILES += \
 TARGET_SCREEN_HEIGHT := 800
 TARGET_SCREEN_WIDTH := 480
 
+PRODUCT_COPY_FILES += \
+  device/samsung/i9082/bootanimation.zip:system/media/bootanimation.zip \
+
 # Prebuilt kl keymaps
 PRODUCT_COPY_FILES += \
 	device/samsung/i9082/bcm_headset.kl:system/usr/keylayout/bcm_headset.kl \
