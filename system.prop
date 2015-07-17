@@ -38,3 +38,10 @@ ro.com.google.gmsversion=4.1_r4
 
 # on screen navigation keys
 qemu.hw.mainkeys=0
+
+
+ro.device.cpu=Dual-core 1.2 GHz Cortex-A9
+ro.device.gpu=Broadcom VideoCore IV 
+ro.device.rear_cam=8 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=5.0 inch
