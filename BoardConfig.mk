@@ -41,7 +41,7 @@ HAVE_SELINUX := true
 EXTENDED_FONT_FOOTPRINT := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_i9082_defconfig
+TARGET_KERNEL_CONFIG := monster_i9082_defconfig
 
 BOARD_HAS_NO_SELECT_BUTTON := true
 BOARD_HAS_LARGE_FILESYSTEM := true
